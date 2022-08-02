@@ -1,0 +1,25 @@
+
+table {
+    border-collapse: collapse;
+    margin: 50px auto;
+    width: 100%;
+}
+
+td,th {
+    border:2px solid rgba(254, 193, 7, 255);
+    background: rgba(56, 44, 110, 255);
+    color: white;
+    padding: 20px;
+    text-align: left;
+}
+.spalva2 {
+    background: rgba(254, 193, 7, 255);
+    color: black;
+    font-weight: 600;
+    text-align: center;
+}
+.spalva3{
+    background:rgba(229, 174, 48, 255) ;
+    color: black;
+    text-align: center;
+}
